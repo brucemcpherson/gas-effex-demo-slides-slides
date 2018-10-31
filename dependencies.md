@@ -1,5 +1,5 @@
 # Google Apps Script Project: gas-effex-demo-slides-slides
-This repo (gas-effex-demo-slides-slides) was automatically updated on 14 March 2017 16:58:04 GMT by GasGit
+This repo (gas-effex-demo-slides-slides) was automatically updated on 31 October 2018 11:43:21 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project gas-effex-demo-slides-slides
@@ -24,17 +24,20 @@ spinner.css| html
 main.js| html
 Webapp| server_js
 Home| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cEffexApiClient| cEffexApiClient|M0ZoQipQg9qyYKGD-uPROISz3TLx7pV4j|4|no|[here](libraries/cEffexApiClient "library source")
+cEffexApiClient| cEffexApiClient|19rhki6VDTWk4v1RDb6u1d5E-nNaQq8sXCnRnFzUpp4V4lmZ9Z6R_PP9n|4|no|[here](libraries/cEffexApiClient "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cEffexApiClient| cEffexApiClient|M0ZoQipQg9qyYKGD-uPROISz3TLx7pV4j|4|no|[here](libraries/cEffexApiClient "library source")
+cEffexApiClient| cEffexApiClient|19rhki6VDTWk4v1RDb6u1d5E-nNaQq8sXCnRnFzUpp4V4lmZ9Z6R_PP9n|4|no|[here](libraries/cEffexApiClient "library source")
 ### Enabled Google Services
 *library*|*identifier*|*version*
 --- | --- | --- 
-Slides| Slides|unknown
-###Need more detail ?
+Slides| Slides|v1
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
